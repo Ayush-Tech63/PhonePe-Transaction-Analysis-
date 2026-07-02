@@ -62,5 +62,6 @@ Data Visualization
 Trend & Performance Analysis
 Customer Segmentation
 Business Insights Generation
-<img width="1905" height="942" alt="Screenshot 2026-07-02 171959" src="https://github.com/user-attachments/assets/7407d1ec-512a-45ea-ad2f-74658f72e663" />
 
+
+<img width="1405" height="802" alt="Screenshot 2026-07-02 203955" src="https://github.com/user-attachments/assets/f36152c0-6ea2-433f-b37f-9245c09c366b" />
